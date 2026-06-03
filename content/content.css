@@ -1,0 +1,21 @@
+/* BOOTH QRコード発行済みタブ Styles */
+
+/* フィルタリング対象外の注文を非表示にする */
+.booth-qr-filter-hidden {
+  display: none !important;
+}
+
+/* 追加したカスタムタブのスタイル調整 */
+.booth-qr-filter-tab-container {
+  display: list-item;
+}
+
+a.booth-qr-filter-tab {
+  cursor: pointer !important;
+  user-select: none;
+}
+
+/* クリック時にブラウザ標準のアウトラインを消す */
+a.booth-qr-filter-tab:focus {
+  outline: none;
+}
