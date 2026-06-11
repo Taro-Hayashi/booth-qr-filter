@@ -1,5 +1,8 @@
 # BOOTH QRコード発行済みタブ
 
+- [Chrome Web Store](https://chromewebstore.google.com/detail/gciajghilcphfodemnpdajalnfempmab)
+- [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/booth-qr-filter/)
+
 BOOTHのショップ管理画面の注文一覧に「QRコード発行済み」タブを追加し、発送コード（QRコード）発行済みの注文のみを表示するブラウザ拡張機能（Chrome / Firefox 対応、Manifest V3）です。
 
 ![BOOTH QRコード発行済みタブ](docs/top.png)
